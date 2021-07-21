@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Chị Giang à!',
+    introTitle: 'Chị Giang oiiiiii!',
     introDesc: `Em không thích xem “Mười vạn câu hỏi vì sao” xíu nào cả. Trong đó chẳng giải thích được vì sao em thích chị <3333`,
     btnIntro: 'hihi',
     title: ' Ask me why I’m so happy and I’ll give you a mirror. 😙',
